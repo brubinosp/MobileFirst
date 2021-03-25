@@ -11,4 +11,11 @@
 }
 .plans-container__slider {
     justify-content: center;
+    overflow-x: unset;
+}
+footer .left ul { 
+    display: flex;
+}
+.left li {
+    margin: 0 15px;
 }
